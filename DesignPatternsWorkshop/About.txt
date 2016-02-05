@@ -1,0 +1,2 @@
+﻿- Solution Intent
+Catalog of Design Patterns for fast refresher how to implement them.
