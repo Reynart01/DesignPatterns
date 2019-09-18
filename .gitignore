@@ -27,3 +27,9 @@ obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
+/.vs/DesignPatternsWorkshop/v16/Server/sqlite3/db.lock
+/.vs/DesignPatternsWorkshop/v16/Server/sqlite3/storage.ide
+/.vs/DesignPatternsWorkshop/v16/Server/sqlite3/storage.ide-shm
+/.vs/DesignPatternsWorkshop/v16/Server/sqlite3/storage.ide-wal
+/.vs/DesignPatternsWorkshop/v16/TestStore/0/000-0000.testlog
+/.vs/DesignPatternsWorkshop/v16/TestStore/0/testlog.manifest
